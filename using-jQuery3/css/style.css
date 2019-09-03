@@ -1,0 +1,17 @@
+body {
+    background: #444444;
+    position: relative;
+}
+
+.slideshow {
+    width: 500px;
+    
+    margin: auto;
+}
+
+.slideshow img {
+    max-width: 100%;
+    background-color: aqua;
+    margin: auto;
+}
+
